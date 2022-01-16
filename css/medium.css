@@ -1,0 +1,18 @@
+@media (min-width: 32.5em) {
+    .card {
+        background-color: blue;
+    }
+
+    .card-grid {
+        grid-template-columns: 1fr 2fr;
+    }
+
+    img {
+
+        padding-left: 50%;
+        padding-bottom: 20px;
+
+    }
+
+}
+
