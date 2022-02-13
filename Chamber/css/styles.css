@@ -15,6 +15,15 @@ body {
     background-color: white;
     color: #121212;
 }
+
+.on{
+    color: #04AA6D;
+}
+
+.off{
+    color: #bbeedd;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
