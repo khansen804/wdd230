@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebdb1365-3b2e-4a31-92e7-02aa5e0b424a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/css/large.css" beforeDir="false" afterPath="$PROJECT_DIR$/Chamber/css/large.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/css/medium.css" beforeDir="false" afterPath="$PROJECT_DIR$/Chamber/css/medium.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Chamber/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chamber/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/js/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chamber/js/banner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/js/dates.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chamber/js/dates.js" afterDir="false" />
-    </list>
+    <list default="true" id="ebdb1365-3b2e-4a31-92e7-02aa5e0b424a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644400759140</updated>
       <workItem from="1644400760425" duration="6185000" />
-      <workItem from="1645252086026" duration="3321000" />
+      <workItem from="1645252086026" duration="3837000" />
     </task>
     <servers />
   </component>
