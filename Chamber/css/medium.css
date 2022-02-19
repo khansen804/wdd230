@@ -28,6 +28,7 @@
     .grid-container {
         display: grid;
         row-gap: 20px;
+        column-gap: 5px;
         grid-template-areas:
     'col1 col1 col1'
     'col2 col2 col2'

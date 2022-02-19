@@ -1,7 +1,6 @@
 @media screen and (min-width: 64em) {
 .grid-container {
-        display: grid;
-        row-gap: 20px;
+
         grid-template-areas:
     'col5 col1 col1 col3'
     'col6 col1 col1 col3'
