@@ -19,9 +19,6 @@
     padding: 30px;
 }
 .bold-text{
-    font-weight: bold;
-    text-align: left;
-    width: 50%;
     text-shadow: 0px 0px 2px;
 }
 
@@ -38,4 +35,9 @@ img {
 }
 ul li{
     margin: 5px;
+}
+
+body{
+    margin: 0 auto;
+    max-width: 600px;
 }
