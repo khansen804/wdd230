@@ -60,9 +60,7 @@ li a:hover {
     background-color: #111;
     color:#77B6E6;
 }
-.active {
-  background-color: #04AA6D;
-}
+
  .logo-image{
     width: 46px;
     height: 46px;
@@ -74,11 +72,12 @@ li a:hover {
      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
      transition: 0.3s;
      width: 100%;
-     height: 20%;
+
      border-radius: 5px;
      color: aliceblue;
      margin: 5px;
      background-color: darkgray;
+
 
 }
 
@@ -127,9 +126,9 @@ nav {
 p {
     font-family: 'PT Serif', serif;
 }
-img {
-    padding: 10px;
-}
+/*img {*/
+/*    margin: 0 auto;*/
+/*}*/
 iframe {
     width: 359px;
     height: 358px;
@@ -137,4 +136,9 @@ iframe {
 }
 footer {
     padding-top: 5px;
+}
+.responsive {
+    max-width: 100%;
+    margin: auto;
+    display: block;
 }
