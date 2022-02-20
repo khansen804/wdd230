@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebdb1365-3b2e-4a31-92e7-02aa5e0b424a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml.rej" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/css/medium.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/discover.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/championshipCourse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/compressjpgfalconCrestSubdivision.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/falconCrest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/falconCrestSubdivision.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/indianCreek.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/kunaCaves.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/kunaCaves2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/swannFalls.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/welcomeToKuna.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/images/wheat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chamber/js/lazyLoad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chamber/js/lastVisit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/css/large.css" beforeDir="false" afterPath="$PROJECT_DIR$/chamber/css/large.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/css/medium.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/chamber/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/images/kcc.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/chamber/images/kcc.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chamber/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/js/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/chamber/js/banner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/js/darkmode.js" beforeDir="false" afterPath="$PROJECT_DIR$/chamber/js/darkmode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chamber/js/dates.js" beforeDir="false" afterPath="$PROJECT_DIR$/chamber/js/dates.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chamber/css/medium.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chamber/discover.html" beforeDir="false" afterPath="$PROJECT_DIR$/chamber/discover.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
